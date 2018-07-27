@@ -1,0 +1,11 @@
+{
+  "name": "ParksApp",
+  "version": "0.0.0",
+  "author": "Eric Perry, Marco Cabrera",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "mongodb": "^2.2.4"
+  }
+}
